@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 12345ersdytfu
+=======
+123 henri muudatus1
+>>>>>>> c034b393c96930a6dcc8c8ce15480a7f8b0a8ce5
